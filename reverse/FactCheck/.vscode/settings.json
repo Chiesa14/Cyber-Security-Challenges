@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.embeddedhtml": "html",
+    "edits": "c"
+  },
+  "C_Cpp.errorSquiggles": "disabled"
+}
